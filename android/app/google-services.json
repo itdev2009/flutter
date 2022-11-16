@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382832231790",
+    "firebase_url": "https://deliveryontime-53727.firebaseio.com",
+    "project_id": "deliveryontime-53727",
+    "storage_bucket": "deliveryontime-53727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382832231790:android:79a63b7f2d11291f996d7f",
+        "android_client_info": {
+          "package_name": "com.inceptory.delivery_on_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382832231790-njo7vckdv8jiaandrn12srq29b2h7r2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inceptory.delivery_on_time",
+            "certificate_hash": "d5aeb93cd3e002987869bf4dd9532146cca17794"
+          }
+        },
+        {
+          "client_id": "382832231790-670sakclg9ic7och56eq5sh7fh5d51rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbOnafIj7dLgQkRpJZ8beCr_aFsC4BfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382832231790-670sakclg9ic7och56eq5sh7fh5d51rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
